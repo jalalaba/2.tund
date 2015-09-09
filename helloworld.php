@@ -7,7 +7,7 @@
 <pr>
 <?php
 
-	$age = 5;
+	$age = 25;
 	
 	//testib loogikat, juhul kui vanus on vähem kui 18 siis kirjuta alaealine
 	//muul juhul trüki täisealine.
