@@ -32,3 +32,9 @@
 	echo "Õnne!";
 	
 ?>
+<pr>
+<?php
+
+	// 
+	echo date("l,F j,Y,")
+?>
