@@ -13,8 +13,10 @@
 	//muul juhul trüki täisealine.
 	// if'i sisse loogikatehe
 	if($age < 18){
+		//tõene
 		echo "alaealine";
 	}else{
+		//väär
 		echo "täisealine";
 	}
 	
